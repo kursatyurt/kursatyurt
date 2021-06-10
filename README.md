@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**kursatyurt/kursatyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I am Kursat Yurt,
 
-Here are some ideas to get you started:
+I am studying Computational Science and Engineering student at Technical University of Munich. Nowadays, I am trying to share my experience in my [blog page](https://kursatyurt.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here some topics that I am interested in:
+
+- Computational Fluid Dynamics (CFD)
+- Turbulence and its modelling
+- Multiphysics solvers
+- High Performance Computing
+
+
+My favorite tools to work with:
+
+- C++, Python and Fortran
+- MPI and OpenMP
+- OpenFOAM
