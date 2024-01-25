@@ -1,18 +1,17 @@
 
 Hey there, I am Kursat Yurt,
 
-I am studying Computational Science and Engineering student at Technical University of Munich. Nowadays, I am trying to share my experience in my [blog page](https://kursatyurt.com)
+I am a Ph.D. candidate at the Technical University of Munich. Nowadays, I am trying to share my experience on my [blog page](https://kursatyurt.com)
 
-Here some topics that I am interested in:
+Here are some topics that I am interested in:
 
 - Computational Fluid Dynamics (CFD)
-- Turbulence and its modelling
 - Multiphysics solvers
-- High Performance Computing
+- High-Performance Computing
 
 
 My favorite tools to work with:
 
 - C++, Python and Fortran
 - MPI and OpenMP
-- OpenFOAM
+- SU2
