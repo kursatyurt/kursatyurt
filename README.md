@@ -1,17 +1,5 @@
+Hi, I’m Kürşat Yurt, a doctoral candidate at the Technical University of Munich (TUM).
 
-Hey there, I am Kursat Yurt,
+My work centers on mid-fidelity aerodynamics, aeromechanics, and high-performance computing, with an emphasis on performance-portable simulation frameworks for rotorcraft and eVTOL applications.
 
-I am a Ph.D. candidate at the Technical University of Munich. Nowadays, I am trying to share my experience on my [blog page](https://kursatyurt.com)
-
-Here are some topics that I am interested in:
-
-- Computational Fluid Dynamics (CFD)
-- Multiphysics solvers
-- High-Performance Computing
-
-
-My favorite tools to work with:
-
-- C++, Python and Fortran
-- MPI and OpenMP
-- SU2
+I’m particularly interested in bridging physical modeling and scalable software design—developing numerical methods that balance accuracy, computational efficiency.
